@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "env\\Scripts\\python.exe",
+    "editor.fontSize": 11,
+    "editor.tabSize": 2,
+    "python.autoComplete.addBrackets": true,
+    
+}
