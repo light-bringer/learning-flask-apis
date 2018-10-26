@@ -1,0 +1,42 @@
+Dear Debapriya,
+ 
+
+As per your application with Fynd we are taking you to our First Round (Task), please find below following task with the attachment. 
+
+ 
+
+Description follows -
+
+ 
+
+==============================================================
+
+
+Here is a task we would like you to do.
+●      Create a RESTful API for movies (something similar to IMDB). For this we would like you to use:
+
+
+1. MySql or SQLlite to store data
+
+
+
+2. Any Python Framework for implementing the APIs.
+
+   There need to be 2 levels of access:-
+     Admin = who can add, remove or edit movies.
+     Users = who can just view the movies.
+
+● There should also be a decent implementation to search for movies.
+● Document your code well so that we can test the API with ease.
+● For your convenience I have attached some data that you can use to populate your database.
+● Try and deploy this on Heroku. Ensure that you parse the JSON file and ingest it into the application deployed on Heroku.
+● Feel free to add features!
+
+
+
+ 
+
+Once deployed suppose this application became very famous and started to receive a ton of traffic. Your application now contains metadata about 5M movies and receives 15M API hits per day both from anonymous as well as authenticated users. Suggest an  architecture to scale up this system to 5x of these specs. You can also think of potential bottlenecks at all layers of the stack and how will you solve for these.
+Please submit your code as well as link to deployed application along with a writeup to the scaling problem. Do let us know if you have need any clarifications on the above questions.
+The timeline for this is till 28 October 2018 EOD, send us whatever you have done at the end of the week. Make your design decisions wisely, you will be asked questions on the implementation at the end of the task.
+If you have any quire regards to task please drop mail to Mr. Kushan Shah  at kushanshah@gofynd.com 
